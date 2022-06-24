@@ -1,0 +1,20 @@
+ Volume in drive C is OS
+ Volume Serial Number is 102A-232B
+
+ Directory of C:\Users\parv2\OneDrive\Desktop\Jenkins
+
+24-06-2022  10:25    <DIR>          .
+23-06-2022  14:18    <DIR>          ..
+24-06-2022  10:25                 0 abc.txt
+23-06-2022  22:33                 0 file1.txt
+23-06-2022  23:18                 0 file11.txt
+24-06-2022  08:32                 0 file12.txt
+24-06-2022  08:45                 0 file13.txt
+24-06-2022  10:24               468 Hello.class
+23-06-2022  22:35               139 Hello.java
+22-06-2022  09:12       147,226,896 jdk-11.0.15.1_windows-x64_bin.exe
+22-06-2022  09:02       160,827,664 jdk-18_windows-x64_bin.exe
+22-06-2022  21:15         3,568,879 jenkins-cli.jar
+22-06-2022  08:55        94,928,325 jenkins.war
+              11 File(s)    406,552,371 bytes
+               2 Dir(s)  907,376,611,328 bytes free
